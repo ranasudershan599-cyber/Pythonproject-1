@@ -11,4 +11,4 @@ An interactive Python application built with Streamlit that finds optimal flight
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ranasudershan599-cyber/Pythonproject-1.git](https://github.com/ranasudershan599-cyber/Pythonproject-1.git)
+  git clone https://github.com/ranasudershan599-cyber/Pythonproject-1.git
